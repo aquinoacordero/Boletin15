@@ -1,6 +1,7 @@
 package boletin15;
 
 import javax.swing.JOptionPane;
+
 /**
  * Clase entrenador
  * 
@@ -53,6 +54,10 @@ public class Entrenador extends Equipo {
     public void dirixir_Entrenamiento() {
 
     }
+    
+    /** 
+     * Muestra un mensaje
+     */
 
     @Override
     public void viaxar() {

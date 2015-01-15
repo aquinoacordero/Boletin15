@@ -1,6 +1,7 @@
 package boletin15;
 
 import javax.swing.JOptionPane;
+
  /**Descripcion Superclase del programa
   * @version .1
   * @author aquinoacordero

@@ -1,6 +1,7 @@
 package boletin15;
 
 import javax.swing.JOptionPane;
+
 /**
  * Clase Masajista
  * 
@@ -48,6 +49,10 @@ public class Masajista extends Equipo {
     public void dar_Masaxe() {
 
     }
+    
+    /**
+     * Muetsra un mensaje
+     */
 
     @Override
     public void viaxar() {
